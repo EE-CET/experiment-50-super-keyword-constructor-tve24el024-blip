@@ -11,7 +11,7 @@ class Student extends Person {
     }
 }
 
-public class SuperKeywordDemo {
+public class SuperConstructorDemo {
     public static void main(String[] args) {
         Student s = new Student();
     }
